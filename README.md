@@ -7,4 +7,9 @@ python -m venv venv
 
 deactivate # deactivate
 
-## added gitignore file to ignore env 
+added gitignore file to ignore env with touch .gitignore
+
+added requirements.txt
+added setup.py # to insatll all local packages
+
+created src folder, in that one init file . inside src one more folder was created with name mcqgenerator and in that folder also one more init file was generated
